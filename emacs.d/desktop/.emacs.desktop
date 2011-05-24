@@ -1,0 +1,51 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat May 21 23:34:01 2011
+;; Desktop file format version 206
+;; Emacs version 23.2.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("px" "line-height" "no" "css"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/desktop/" "~/.emacs.d/desktop" "/home/arun/Project/web/CSS-Missing-Manual/CSS2e_MM_TUTORIALS/06/main.css" "/home/arun/Project/web/CSS-Missing-Manual/CSS2e_MM_TUTORIALS/06/text.html" "/home/arun/Project/web/CSS-Missing-Manual/CSS2e_MM_TUTORIALS/05/main.css" "/home/arun/Project/web/CSS-Missing-Manual/CSS2e_MM_TUTORIALS/05/cascade.html" "/home/arun/Documents/learn/css.org" "~/Project/web/CSS-Missing-Manual/CSS2e_MM_TUTORIALS/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/arun/Documents/learn/css.org"
+  "css.org"
+  'org-mode
+  '(ede-minor-mode)
+  2970
+  '(588 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/arun/Project/web/CSS-Missing-Manual/CSS2e_MM_TUTORIALS/06/main.css"
+  "main.css"
+  'css-mode
+  '(ede-minor-mode yas/minor-mode auto-complete-mode)
+  1010
+  '(132 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/arun/Project/web/CSS-Missing-Manual/CSS2e_MM_TUTORIALS/06/text.html"
+  "text.html"
+  'nxhtml-mumamo-mode
+  '(ede-minor-mode yas/minor-mode)
+  564
+  '(308 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
